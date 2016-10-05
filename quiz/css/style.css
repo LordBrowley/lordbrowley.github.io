@@ -1,0 +1,14 @@
+button {
+  font-size: 100px;
+  font-family: Verdana;
+  background: black;
+  color: red;
+  border: groove;
+  border-color: red;
+}
+
+body {
+    text-align: center;
+    margin: 10px;
+    background: grey;
+}
