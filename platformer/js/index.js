@@ -145,7 +145,7 @@ boxes.push({
     x: 90,
     y: 350,
     width: 10,
-    height: 52,
+    height: 58,
     color: '#655643'
 });
 
